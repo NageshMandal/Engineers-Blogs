@@ -15,8 +15,6 @@ export default function Home() {
           <li>Home</li>
           <li>About</li>
           <li>Contact</li>
-          <li>blogs</li>
-          <li>Gallery</li>
         </ul>
       </nav>
 
